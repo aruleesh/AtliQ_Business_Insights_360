@@ -59,6 +59,6 @@ APAC region presents an opportunity for targeted marketing strategies to enhance
 
 ## Live Dashboard
 
-1. Explore the live dashboards [BI_360_Insights](https://app.powerbi.com/groups/me/reports/96f3cffe-65a8-4cf5-99ad-fa07bdc89458/ReportSectiond8f5e3b0f84a93be84d3?experience=power-bi).
+1. Explore the live dashboards [BI_360_Insights](https://app.powerbi.com/view?r=eyJrIjoiNmYzOTUwZjUtNjU1OS00YzMwLWIyNDQtMTJhM2U4YjI5YzU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 2. Open the link above to access the interactive dashboards.
 3. Use the toggle buttons and bookmarks for seamless navigation between views.
